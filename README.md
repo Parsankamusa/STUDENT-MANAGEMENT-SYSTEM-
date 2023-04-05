@@ -2,7 +2,8 @@
 
 This is a student management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5**.
 
-![plot]http://127.0.0.1:8000/
+![plot]![image](https://user-images.githubusercontent.com/91263172/230201749-41a7642e-e9c6-43b3-a94b-e89703634ffb.png)
+
 
 
 ## Table of Contents 
