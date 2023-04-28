@@ -92,4 +92,4 @@ Go to http://127.0.0.1:8000/ to view the application.
 
 ## Copyright and License
 
-Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
+Copyright © 2023 Musa Parsanka. Software engineer
